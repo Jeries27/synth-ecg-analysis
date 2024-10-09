@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="jeries.saleh@campus.technion.ac.il@132.68.39.91:22 password (16)" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="jeries.saleh@campus.technion.ac.il@132.68.39.91:22 password (16)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/jeries.saleh/synth-ecg-analysis" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
